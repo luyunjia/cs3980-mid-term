@@ -1,3 +1,9 @@
+# Results display
+
+![image](https://github.com/luyunjia/cs3980-mid-term/blob/main/todo%20list.png)
+
+![image](https://github.com/luyunjia/cs3980-mid-term/blob/main/show%20incomplete.png)
+
 # basic-vue
 
 This template should help get you started developing with Vue 3 in Vite.
